@@ -1,0 +1,11 @@
+{
+  "prefix" : "!",
+  "token" : "Put your token here",
+  "owner" : "340443931105951745",
+  "name": "Love Lounge's#4320",
+  "ownerTag" : "󠀂󠀂#0001",
+  "invLink" : "https://discordapp.com/api/oauth2/authorize?client_id=521506358848389158&permissions=8&scope=bot",
+  "createMuteRoleUponJoin": true,
+  "uploadtoPastebinEval": false,
+  "uploadtoFileEval": false
+}
